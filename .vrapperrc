@@ -1,0 +1,14 @@
+
+
+" Remap arrow keys
+noremap c k
+noremap n l
+noremap t j
+
+" remapap the old arrow keys
+noremap k c
+noremap l n
+noremap j t
+
+
+
